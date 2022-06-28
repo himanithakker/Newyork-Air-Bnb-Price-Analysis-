@@ -13,7 +13,7 @@ Prospective Business Rules:
 5.	Which Hosts are the busiest and why? How can I find one super host in each Neighbourhood on the basis of Host Reviews?
 
 Data Description:
-This data is a Kaggle data from 2019, It consists of only Airbnb data.
+This data is a Kaggle data from 2019, It consists of only Airbnb data from newyork city. 
 
 Number of Records: 48,895
 Number of Variables: 16
